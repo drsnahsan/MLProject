@@ -1,1 +1,1 @@
-Hi this is my repository which will be used to build ML based fault prediction system. In this product we will apply supervised ML algorithm.
+Hi this is my repository which will be used to build ML based fault prediction system. In this product we will apply supervised ML algorithm. The main objective of this project is to apply ML algorithm on software engineering data and find some hidden fault patterns
